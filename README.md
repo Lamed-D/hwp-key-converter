@@ -2,10 +2,6 @@
 
 한컴 오피스 제품키의 다양한 형식 간 변환을 지원하는 도구입니다.
 
-## 참고한 문서 및 동영상 등등 한컴 오피스 제품키 변환 도구 (Product ID to Serial Converter)
-
-한컴 오피스 제품키의 다양한 형식 간 변환을 지원하는 도구입니다.
-
 ## 참고한 문서 및 동영상 등등
 
 https://github.com/loopback-kr/hwp-key-converter
@@ -83,4 +79,5 @@ python final.py
    - 32진수 인덱스 변환
    - 특별 규칙 적용 (인덱스 3)
    - 문자열 재배열 알고리즘
+
 
